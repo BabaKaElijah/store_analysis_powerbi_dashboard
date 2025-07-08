@@ -50,7 +50,7 @@ Conduct a detailed analysis of:
 
 ## 📷 Dashboard Screenshot
 
-![Sales Dashboard Screenshot](powerbi.png) <!-- Replace with actual screenshot name -->
+![Sales Dashboard Screenshot](powerbi.PNG) <!-- Replace with actual screenshot name -->
 
 ---
 
